@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "05930abe-4def-4cce-a902-465e67b51173": {
+      "ProjectGuid": "05930abe-4def-4cce-a902-465e67b51173",
+      "DisplayName": "CRUDMysql",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
